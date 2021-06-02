@@ -1,7 +1,9 @@
 
 # NETFLIX CLONE USING REACT
 
-This project was built using React. An API key was generated using [TMDB](https://www.themoviedb.org/settings/api) and requests are rendered in [requests.js](src/requests.js) file. The main working of the file is in [App.js](src/App.js)
+This project was built using React. An API key was generated using [TMDB](https://www.themoviedb.org/settings/api) and requests are rendered in [requests.js](src/requests.js) file. The main working of the file is in [App.js](src/App.js).
+
+[Click](https://netflix-clone-41c44.web.app/) to visit the clone
 
 ## Available Scripts
 
