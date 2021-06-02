@@ -1,6 +1,7 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# NETFLIX CLONE USING REACT
+
+This project was built using React. An API key was generated using [TMDB](https://www.themoviedb.org/settings/api) and requests are rendered in requests.js file. The main working of the file is in App.js
 
 ## Available Scripts
 
@@ -10,7 +11,6 @@ In the project directory, you can run:
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
